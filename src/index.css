@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@font-face {
+    font-family: 'minhafonte';
+    src: url('assets/VerandahReverie_PERSONAL_USE_ONLY.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family: 'minhafonte', sans-serif;
+}
