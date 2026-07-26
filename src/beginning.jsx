@@ -32,6 +32,8 @@ function Beginning() {
         <h1 className="text-center text-5xl max-w-100 text-wrap ">
             <a>Vida...</a>
         </h1>
+
+        <p>por Ítalo Borges</p>
       </div>
     </div>
   )
