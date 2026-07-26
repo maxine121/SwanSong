@@ -16,7 +16,7 @@ function Third() {
         {isClicked && 
              <div className="flex flex-col items-center pt-5">
                 <img className="w-30 h-44" src="src\assets\caesar.png"></img>
-                <p className="text-center text-5xl mt-30 max-w-200">X /orv ynavjwnln x vnbvx </p>
+                <p className="text-center text-5xl mt-30 max-w-200 font-serif">X /orv ynavjwnln x vnbvx </p>
              </div>}
       </div>
     </div>

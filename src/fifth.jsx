@@ -15,7 +15,7 @@ function Fifth() {
         <button onClick={handleClick} id="pre-answers" className="border text-center text-wrap px-3 hover:bg-white hover:text-black cursor-pointer font-serif">?</button>
         {isClicked && 
              <div className="flex flex-col items-center pt-5 gap-2">
-                <p className="text-center text-5xl mt-30 max-w-200">Fim da linha.</p>
+                <p className="text-center text-5xl mt-30 max-w-200 font-serif">Fim da linha.</p>
                 <img className="w-100 h-100" src="src\assets\grave.png"></img>
              </div>}
       </div>

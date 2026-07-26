@@ -33,7 +33,7 @@ function Beginning() {
             <a>Vida...</a>
         </h1>
 
-        <p>por Ítalo Borges</p>
+        <p className="font-serif">por Ítalo Borges</p>
       </div>
     </div>
   )
