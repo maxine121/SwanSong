@@ -16,7 +16,7 @@ function Fifth() {
         {isClicked && 
              <div className="flex flex-col items-center pt-5 gap-2">
                 <p className="text-center text-5xl mt-30 max-w-200 font-serif">Fim da linha.</p>
-                <img className="w-100 h-100" src="src\assets\grave.png"></img>
+                <img className="w-100 h-100" src="https://i.ibb.co/v4nZ2NW8/Grave.png"></img>
              </div>}
       </div>
     </div>
