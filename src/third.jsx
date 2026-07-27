@@ -15,7 +15,7 @@ function Third() {
         <button onClick={handleClick} id="pre-answers" className="border text-center text-wrap px-3 hover:bg-white hover:text-black cursor-pointer font-serif">?</button>
         {isClicked && 
              <div className="flex flex-col items-center pt-5">
-                <img className="w-30 h-44" src="src\assets\caesar.png"></img>
+                <img className="w-30 h-44" src="https://static.jojowiki.com/images/thumb/2/23/latest/20210117024501/Caesar_Infobox_Anime.png/800px-Caesar_Infobox_Anime.png"></img>
                 <p className="text-center text-5xl mt-30 max-w-200 font-serif">X /orv ynavjwnln x vnbvx </p>
              </div>}
       </div>
