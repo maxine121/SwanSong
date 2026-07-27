@@ -16,7 +16,7 @@ function Fourth() {
         {isClicked && 
              <div className="flex flex-col items-center pb-5 gap-10">
                 <p className="text-center text-black text-5xl mt-30 max-w-200 font-serif">/mêsdia</p>
-                <img className="w-80 h-80" src="src\assets\xadrez.png"></img>
+                <img className="w-80 h-80" src="https://i.ibb.co/4RnK9QCR/xadrez.png"></img>
              </div>}
       </div>
     </div>
